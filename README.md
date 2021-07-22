@@ -4,7 +4,7 @@ This is a space where I put my efforts and passion.
 
 Develop various programs with the following programming experiences:
 
-> Common Stacks
+> Common Language
 >> 1. Pure Java
 >> 2. Python
 >> 3. JavaScript
